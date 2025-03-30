@@ -42,16 +42,22 @@ python -m src.main data/nav_graph_2.json or
 python -m src.main data/nav_graph_3.json
 ```
 
+
+## Demo Video Link
+
+- [Demo Video link](https://drive.google.com/file/d/1bJ4uw8MDrsfQQW6pYjqhWXmGtiVLkA69/view?usp=sharing)
+
+  
 ## Navigation Graphs
 
 ### Navigation Graph 1
-![Navigation Graph 1](data/nav_graph_1.png)
+![Navigation Graph 1](nav_graph_1.png)
 
 ### Navigation Graph 2
-![Navigation Graph 2](data/nav_graph_2.png)
+![Navigation Graph 2](nav_graph_2.png)
 
 ### Navigation Graph 3
-![Navigation Graph 3](data/nav_graph_3.png)
+![Navigation Graph 3](nav_graph_3.png)
 
 ## How to Use
 
