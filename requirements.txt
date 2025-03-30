@@ -1,0 +1,10 @@
+# Core dependencies
+tkinter  # GUI framework (built-in with Python)
+typing   # For type hints (built-in with Python)
+json     # For JSON file handling (built-in with Python)
+
+# Optional development dependencies
+pytest>=7.0.0  # For testing
+black>=22.0.0  # For code formatting
+pylint>=2.15.0  # For code linting
+
