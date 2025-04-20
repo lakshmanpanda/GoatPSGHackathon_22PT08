@@ -18,8 +18,8 @@ A simple Python GUI application for managing multiple robots navigating through 
 
 2. Clone and run:
 ```bash
-git clone https://github.com/lakshmanpanda/GoatPSGHackathon_22PT08.git
-cd GoatPSGHackathon_22PT08
+git clone https://github.com/lakshmanpanda/Robot-Fleet-Management-System.git
+cd Robot-Fleet-Management-System
 
 ```
 
